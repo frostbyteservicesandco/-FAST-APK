@@ -1,4 +1,5 @@
-name: fast_apk_downloader
+name: fast_attendance
+
 description: F.A.S.T. Student Attendance App
 publish_to: 'none'
 
@@ -15,3 +16,4 @@ flutter:
 
   assets:
     - assets/logo.png
+
