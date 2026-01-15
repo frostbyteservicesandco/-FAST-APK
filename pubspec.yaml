@@ -1,0 +1,17 @@
+name: fast_apk_downloader
+description: F.A.S.T. Student Attendance App
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.3.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
